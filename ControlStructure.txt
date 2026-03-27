@@ -3,5 +3,8 @@
  1.Selection(Decision making) control structure
  2.Iteration(Looping) control structure 
  3.Jump(Branching) control structure 
- Selection- if,if else,nested if and if else,
+ Selection- if,if else,nested if and if else ladder,
  switch
+
+ 2.Iteration(Looping) control structure : 
+ for loop,while and do while
